@@ -7,4 +7,4 @@ The stack of technologies that built this website:
 - HTML5
 - CSS3
 - Bootstrap 4
-- Jquery (smooth.js)
+- Jquery (smooth-scroll.js)
